@@ -11,4 +11,4 @@ INSTALL with npm
 USAGE
 const randomID = require('@barbara.pakula/randomid-generator');
 
-console.log(randomID(10));
+console.log(randomID(idLength));
