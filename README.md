@@ -12,3 +12,5 @@ USAGE
 const randomID = require('@barbara.pakula/randomid-generator');
 
 console.log(randomID(idLength));
+
+https://www.npmjs.com/package/@barbara.pakula/randomid-generator
