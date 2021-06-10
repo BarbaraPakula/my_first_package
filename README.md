@@ -9,8 +9,12 @@ INSTALL with npm
 ## npm i @barbara.pakula/randomid-generator
 
 USAGE
-const randomID = require('@barbara.pakula/randomid-generator');
+## const randomID = require('@barbara.pakula/randomid-generator');
 
-console.log(randomID(idLength));
+Code:
+
+console.log(randomID(10));
+
+## RESULT: for exemple:  Zpi6WSFAe0
 
 https://www.npmjs.com/package/@barbara.pakula/randomid-generator
